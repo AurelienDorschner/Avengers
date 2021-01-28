@@ -1,0 +1,48 @@
+img {
+    float: right;
+    position: absolute;
+    top: 250px;
+    left: 650px;	        
+}
+
+.deux {
+    float: right;
+    position: absolute;
+    top: 95px;
+    left: -65px;
+}
+
+.trois {
+    float: right;
+    position: absolute;
+    top: 80px;
+    left: 85px;
+}
+
+.quatre {
+    float: right;
+    position: absolute;
+    top: -10px;
+    left: 135px;
+}
+
+.cinq {
+    float: right;
+    position: absolute;
+    top: -80px;
+    left: 210px;
+}
+
+.six {
+    float: right;
+    position: absolute;
+    top: 44px;
+    left: 230px;
+}
+
+.sept {
+    float: right;
+    position: absolute;
+    top: 160px;
+    left: 150px;
+}
